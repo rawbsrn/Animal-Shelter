@@ -1,3 +1,13 @@
+.light-background {
+  background-color: rgb(178, 235, 178);
+}
+
+.dark-background {
+  background-color: rgb(66, 66, 63);
+  color: white;
+}
+
+
 .dog1{
   width: 50%;
   padding: 50px;
@@ -7,9 +17,30 @@
   margin-bottom: 10px;
   box-sizing: border-box;
 }
-.dog1 img{
+.dog1 img {
 width: 50% 
 }
+
+/* .clickable-hide {
+  color: black
+} */
+
+.selected{
+  color:black;
+}
+
+.highlight{
+  background: yellow;
+  box-sizing: border-box;
+}
+
+/* .clickable {
+  cursor: pointer;
+  color: black;
+  border: solid blue;
+  background-color: yellow;
+  box-sizing: border-box;
+} */
 
 .dog2{
   width: 50%;
